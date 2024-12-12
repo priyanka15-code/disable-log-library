@@ -1,0 +1,14 @@
+{
+  "name": "disable-logs-library",
+  "version": "1.0.0",
+  "main": "index.js",
+  "types": "index.d.ts", 
+  "license": "MIT",
+  "description": "A library to disable console logs for frontend applications.",
+  "keywords": ["logs", "console", "disable"],
+  "author": "Your Name",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/priyanka15-code/disable-log-library.git"
+  }
+}
